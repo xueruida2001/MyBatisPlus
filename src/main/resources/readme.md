@@ -1,0 +1,3 @@
+properties通过.进行分隔，yml通过冒号进行分隔
+yml的格式要求必properties要高一些
+在properties和yml中配置MyBatisPlus均可
