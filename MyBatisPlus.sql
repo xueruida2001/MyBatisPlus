@@ -14,3 +14,4 @@ INSERT INTO tbl_employee(last_name,email,gender,age) VALUES('Tom','tom@atguigu.c
 INSERT INTO tbl_employee(last_name,email,gender,age) VALUES('Jerry','jerry@atguigu.com',0,25);
 INSERT INTO tbl_employee(last_name,email,gender,age) VALUES('Black','black@atguigu.com',1,30);
 INSERT INTO tbl_employee(last_name,email,gender,age) VALUES('White','white@atguigu.com',0,35);
+desc tbl_employee ;
